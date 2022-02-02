@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d4eb8fc-51f6-4911-b0cc-612bf7ea2231": {
+      "ProjectGuid": "3d4eb8fc-51f6-4911-b0cc-612bf7ea2231",
+      "DisplayName": "CWLTransactHollowing",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

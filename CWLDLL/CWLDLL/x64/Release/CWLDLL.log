@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CWLDLL.vcxproj -> C:\Users\CWLabs\source\repos\CWLDLL\x64\Release\CWLDLL.dll

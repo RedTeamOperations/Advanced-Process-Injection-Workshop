@@ -1,0 +1,6 @@
+﻿  CWLImplant.cpp
+C:\Users\CWLabs\source\repos\CWLProcessGhosting\CWLProcessGhosting\CWLImplant.cpp(19,5): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\CWLabs\source\repos\CWLProcessGhosting\CWLProcessGhosting\CWLImplant.cpp(91,5): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\CWLabs\source\repos\CWLProcessGhosting\CWLProcessGhosting\CWLImplant.cpp(160,10): warning C4477: 'wprintf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'ULONG_PTR'
+C:\Users\CWLabs\source\repos\CWLProcessGhosting\CWLProcessGhosting\CWLImplant.cpp(163,10): warning C4477: 'wprintf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'ULONG_PTR'
+  CWLProcessGhosting.vcxproj -> C:\Users\CWLabs\source\repos\CWLProcessGhosting\x64\Debug\CWLProcessGhosting.exe

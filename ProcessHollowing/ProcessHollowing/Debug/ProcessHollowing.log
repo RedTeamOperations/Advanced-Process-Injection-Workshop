@@ -1,0 +1,4 @@
+﻿  CWLImplant.cpp
+C:\Users\CWLabs\Desktop\ProcessInjections\ProcessHollowing\ProcessHollowing\CWLImplant.cpp(115,9): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'DWORD'
+  LINK : C:\Users\CWLabs\Desktop\ProcessInjections\ProcessHollowing\Debug\ProcessHollowing.exe not found or not built by the last incremental link; performing full link
+  ProcessHollowing.vcxproj -> C:\Users\CWLabs\Desktop\ProcessInjections\ProcessHollowing\Debug\ProcessHollowing.exe

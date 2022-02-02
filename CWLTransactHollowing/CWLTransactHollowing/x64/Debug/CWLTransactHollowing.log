@@ -1,0 +1,6 @@
+﻿  CWLImplant.cpp
+C:\Users\CWLabs\source\repos\CWLTransactHollowing\CWLTransactHollowing\CWLImplant.cpp(20,5): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\CWLabs\source\repos\CWLTransactHollowing\CWLTransactHollowing\CWLImplant.cpp(155,10): warning C4477: 'wprintf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'ULONGLONG'
+C:\Users\CWLabs\source\repos\CWLTransactHollowing\CWLTransactHollowing\CWLImplant.cpp(157,10): warning C4477: 'wprintf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'ULONGLONG'
+C:\Users\CWLabs\source\repos\CWLTransactHollowing\CWLTransactHollowing\CWLImplant.cpp(145,11): warning C4101: 'status': unreferenced local variable
+  CWLTransactHollowing.vcxproj -> C:\Users\CWLabs\source\repos\CWLTransactHollowing\x64\Debug\CWLTransactHollowing.exe

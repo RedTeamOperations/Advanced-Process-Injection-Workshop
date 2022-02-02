@@ -1,0 +1,11 @@
+﻿  CWLImplant.cpp
+C:\Users\CWLabs\source\repos\CWLProcessDoppelganging\CWLProcessDoppelganging\CWLImplant.cpp(21,5): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\CWLabs\source\repos\CWLProcessDoppelganging\CWLProcessDoppelganging\CWLImplant.cpp(222,10): warning C4477: 'wprintf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'ULONG_PTR'
+C:\Users\CWLabs\source\repos\CWLProcessDoppelganging\CWLProcessDoppelganging\CWLImplant.cpp(224,10): warning C4477: 'wprintf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'ULONG_PTR'
+C:\Users\CWLabs\source\repos\CWLProcessDoppelganging\CWLProcessDoppelganging\CWLImplant.cpp(226,10): warning C4477: 'wprintf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'ULONG_PTR'
+  Generating code
+  0 of 22 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CWLProcessDoppelganging.vcxproj -> C:\Users\CWLabs\source\repos\CWLProcessDoppelganging\x64\Release\CWLProcessDoppelganging.exe

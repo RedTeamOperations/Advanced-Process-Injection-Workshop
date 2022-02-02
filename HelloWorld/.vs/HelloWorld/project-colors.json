@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9114e2c1-d908-4bc5-b5fe-e9a0d7eecaa6": {
+      "ProjectGuid": "9114e2c1-d908-4bc5-b5fe-e9a0d7eecaa6",
+      "DisplayName": "HelloWorld",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

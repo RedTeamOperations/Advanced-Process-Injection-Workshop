@@ -1,0 +1,7 @@
+﻿  CWLImplant.cpp
+C:\Users\CWLabs\source\repos\CWLHerpaderping\CWLHerpaderping\CWLImplant.cpp(18,5): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\CWLabs\source\repos\CWLHerpaderping\CWLHerpaderping\CWLImplant.cpp(48,10): warning C4477: 'wprintf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'ULONG_PTR'
+C:\Users\CWLabs\source\repos\CWLHerpaderping\CWLHerpaderping\CWLImplant.cpp(51,10): warning C4477: 'wprintf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'ULONG_PTR'
+C:\Users\CWLabs\source\repos\CWLHerpaderping\CWLHerpaderping\CWLImplant.cpp(125,5): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+LINK : warning LNK4076: invalid incremental status file 'x64\Debug\CWLHerpaderping.ilk' (which will be deleted); linking nonincrementally
+  CWLHerpaderping.vcxproj -> C:\Users\CWLabs\source\repos\CWLHerpaderping\x64\Debug\CWLHerpaderping.exe

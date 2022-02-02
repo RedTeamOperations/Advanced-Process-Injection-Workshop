@@ -1,0 +1,6 @@
+﻿  CWLImplant.cpp
+C:\Users\CWLabs\source\repos\ProcessHollowing\ProcessHollowing\CWLImplant.cpp(53,66): warning C4311: 'type cast': pointer truncation from 'PPEB' to 'DWORD'
+C:\Users\CWLabs\source\repos\ProcessHollowing\ProcessHollowing\CWLImplant.cpp(53,66): warning C4302: 'type cast': truncation from 'PPEB' to 'DWORD'
+C:\Users\CWLabs\source\repos\ProcessHollowing\ProcessHollowing\CWLImplant.cpp(54,9): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'DWORD'
+C:\Users\CWLabs\source\repos\ProcessHollowing\ProcessHollowing\CWLImplant.cpp(54,9): warning C4313: 'printf': '%p' in format string conflicts with argument 1 of type 'DWORD'
+  ProcessHollowing.vcxproj -> C:\Users\CWLabs\source\repos\ProcessHollowing\x64\Debug\ProcessHollowing.exe

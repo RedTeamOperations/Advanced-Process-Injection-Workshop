@@ -1,0 +1,3 @@
+﻿  CWLImplant.cpp
+C:\Users\CWLabs\source\repos\CWLProcessDoppelganging\CWLProcessDoppelganging\CWLImplant.cpp(21,5): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  CWLProcessDoppelganging.vcxproj -> C:\Users\CWLabs\source\repos\CWLProcessDoppelganging\x64\Debug\CWLProcessDoppelganging.exe
