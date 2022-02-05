@@ -1,0 +1,3 @@
+Put all these payload into the dir:
+C:\temp\
+For convenience

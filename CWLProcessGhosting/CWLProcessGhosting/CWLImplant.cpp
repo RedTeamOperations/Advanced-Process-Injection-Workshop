@@ -43,8 +43,8 @@ HANDLE MakeSectionFromDeletePendingFile(wchar_t* ntFilePath, BYTE* payload, size
 		perror("[-] Unable To Found API RtlInitUnicodeString...\n");
 		exit(-1);
 	}
-	_NtSetInformationFile pNtSetInfromationFile = (_NtSetInformationFile)GetProcAddress(GetModuleHandleA("ntdll.dll"), "NtSetInformationFile");
-	if (pNtSetInfromationFile == NULL) {
+	_NtSetInformationFile pNtSetInformationFile = (_NtSetInformationFile)GetProcAddress(GetModuleHandleA("ntdll.dll"), "NtSetInformationFile");
+	if (pNtSetInformationFile == NULL) {
 		perror("[-] Unable To Found API NtSetInfromationFile...\n");
 		exit(-1);
 	}
@@ -77,7 +77,7 @@ HANDLE MakeSectionFromDeletePendingFile(wchar_t* ntFilePath, BYTE* payload, size
 	info.DeleteFile = TRUE;
 	// Set delete-pending state to the file
 	// FileDispositionInformation: Request to delete the file when it is closed
-	status = pNtSetInfromationFile(hFile, &statusBlock, &info, sizeof(info), FileDispositionInformation);
+	status = pNtSetInformationFile(hFile, &statusBlock, &info, sizeof(info), FileDispositionInformation);
 	if (!NT_SUCCESS(status)) {
 		perror("[-] Error setting file to delete pending state...\n");
 		exit(-1);
