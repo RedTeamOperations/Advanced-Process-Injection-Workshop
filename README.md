@@ -4,10 +4,10 @@ To setup the environment, please refer this : https://docs.google.com/document/d
 
 ![This is an image](Untitled-1.jpg)
 
-## Tools Used $$
-PE bear: https://github.com/hasherezade/pe-bear-releases
-CFF Explorer: https://ntcore.com/?page_id=388
-Visual Studio 2022: https://visualstudio.microsoft.com/vs/community/
+## Tools Used </br>
+PE bear: https://github.com/hasherezade/pe-bear-releases </br>
+CFF Explorer: https://ntcore.com/?page_id=388 </br>
+Visual Studio 2022: https://visualstudio.microsoft.com/vs/community/ </br>
 
 # References
 1. APC Code Injection </br>
